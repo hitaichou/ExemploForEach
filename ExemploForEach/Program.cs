@@ -6,6 +6,7 @@ namespace ExemploForEach
     {
         static void Main(string[] args)
         {
+            //criação de vetor
             string[] vet = new string[] { "Maria", "Alex", "Bob" };
 
             //for tradicional.
